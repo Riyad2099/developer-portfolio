@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.text-primary{
+    color: #FD6E0A;
+
+}
+.btn-primary{
+    color: #FD6E0A;
+    border-radius: 5px;
+    height: 64px;
+    width: 150px;
+    
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+}
